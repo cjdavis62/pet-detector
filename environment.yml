@@ -4,13 +4,3 @@ channels:
   - defaults
 dependencies:
   - python=3.10
-  - pip
-  - jupyterlab
-  - notebook
-  - ipywidgets
-  - numpy
-  - matplotlib
-  - pillow
-  - pip:
-      - ultralytics
-      - opencv-python-headless  # OpenCV without GUI support (for headless environments)
