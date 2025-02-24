@@ -2,7 +2,7 @@ name: cat-detection
 channels:
   - conda-forge
   - defaults
-  dependencies:
+dependencies:
   - python=3.10
   - pip
   - jupyterlab
